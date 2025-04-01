@@ -11,7 +11,9 @@ Adds a snowy (mostly) vanilla-like moon to Lethal Company. ([Discord link](https
 > **POPULATION:** None <br>
 > **CONDITIONS:** Abandoned hydro-electric plant in the mountains. <br>
 > **FAUNA:** Dangerous entities reside in these hills.
-![View of dam and canal](https://imgur.com/8RoiLH9.png)
+![View of dam and canal](https://imgur.com/plS0oUh.png)
+![View of bridges](https://imgur.com/TBfoIiL.png)
+![View of wall](https://imgur.com/A6lTpHu.png)
 
 </details>
 
