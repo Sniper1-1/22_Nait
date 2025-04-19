@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.6</summary>**
+
+ - Fixed bush texture.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.5</summary>**
 
  - Icon updated.
