@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.7</summary>**
+
+ - Snowmen spawn in December.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.6</summary>**
 
  - Fixed bush texture.
