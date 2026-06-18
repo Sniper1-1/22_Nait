@@ -1,6 +1,19 @@
 
 ---
 
+**<details><summary>Version 1.0.3</summary>**
+
+ - Fixed main entrance door slightly clipping into frame.
+ - Minor audio tweaks.
+ - Removed DawnLib dependency for now, instead using LLL's footstep registration system.
+ - Removed Moon_Day_Speed_Multiplier_Patcher since LLL fixes it natively now.
+ - Properly uses snow Vain Shroud variant.
+ - Weather effects now properly reactivate when exiting interior (might've not been noticeable before because when you exited you would be in a trigger specifically just to fix it instead of using the door activating them directly).
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.2</summary>**
 
  - VR support (Apparently this is something we have to do. I don't have the hardware to test).
